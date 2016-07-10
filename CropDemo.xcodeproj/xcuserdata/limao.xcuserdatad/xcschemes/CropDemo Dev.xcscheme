@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DA0F26261D31E60C005F24C1"
-               BuildableName = "CropDemo.app"
-               BlueprintName = "CropDemo"
+               BlueprintIdentifier = "DA0F265A1D321BF3005F24C1"
+               BuildableName = "CropDemo Dev.app"
+               BlueprintName = "CropDemo Dev"
                ReferencedContainer = "container:CropDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,33 +28,13 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DA0F263A1D31E60C005F24C1"
-               BuildableName = "CropDemoTests.xctest"
-               BlueprintName = "CropDemoTests"
-               ReferencedContainer = "container:CropDemo.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DA0F26451D31E60C005F24C1"
-               BuildableName = "CropDemoUITests.xctest"
-               BlueprintName = "CropDemoUITests"
-               ReferencedContainer = "container:CropDemo.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA0F26261D31E60C005F24C1"
-            BuildableName = "CropDemo.app"
-            BlueprintName = "CropDemo"
+            BlueprintIdentifier = "DA0F265A1D321BF3005F24C1"
+            BuildableName = "CropDemo Dev.app"
+            BlueprintName = "CropDemo Dev"
             ReferencedContainer = "container:CropDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -75,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA0F26261D31E60C005F24C1"
-            BuildableName = "CropDemo.app"
-            BlueprintName = "CropDemo"
+            BlueprintIdentifier = "DA0F265A1D321BF3005F24C1"
+            BuildableName = "CropDemo Dev.app"
+            BlueprintName = "CropDemo Dev"
             ReferencedContainer = "container:CropDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -94,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA0F26261D31E60C005F24C1"
-            BuildableName = "CropDemo.app"
-            BlueprintName = "CropDemo"
+            BlueprintIdentifier = "DA0F265A1D321BF3005F24C1"
+            BuildableName = "CropDemo Dev.app"
+            BlueprintName = "CropDemo Dev"
             ReferencedContainer = "container:CropDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

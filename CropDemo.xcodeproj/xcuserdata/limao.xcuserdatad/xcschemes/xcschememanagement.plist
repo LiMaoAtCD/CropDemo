@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>CropDemo Dev.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
 		<key>CropDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>DA0F26451D31E60C005F24C1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA0F265A1D321BF3005F24C1</key>
 		<dict>
 			<key>primary</key>
 			<true/>

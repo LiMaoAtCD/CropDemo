@@ -1,0 +1,15 @@
+PODS:
+  - RSKImageCropper (1.5.1)
+  - SnapKit (0.21.1)
+
+DEPENDENCIES:
+  - RSKImageCropper
+  - SnapKit
+
+SPEC CHECKSUMS:
+  RSKImageCropper: edd65fedb3734332818deb139906d6b7f54b8a44
+  SnapKit: bbad04cb016c7cead63965f16b00c09318d271ee
+
+PODFILE CHECKSUM: eb6a84ac6e53ab674f0c831edb309a4adf71ec9c
+
+COCOAPODS: 1.0.1
